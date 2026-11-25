@@ -28,7 +28,7 @@ jobs:
           args: >
             -Dsonar.host.url=https://sonarcloud.io
             -Dsonar.organization=andrealozanotoledo
-            -Dsonar.projectKey=andrealozanotoledo_CityDrive-SonarCloud
+            -Dsonar.projectKey=andrealozanotoledo_Trabajo-4-GPS---Analisis-de-calidad-de-CityDrive-con-SonarCloud
             -Dsonar.tests=tests,test_cancelacion.py
             -Dsonar.python.version=3.14
             -Dsonar.sourceEncoding=UTF-8
